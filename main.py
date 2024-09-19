@@ -20,7 +20,7 @@ print(f'-----Guide:\n'
 
 pos_filled=[]
 
-#todo ----- function check win
+#----- function check win
 
 def check_win(pos_d):
     check = list(pos_d.values())
@@ -44,7 +44,7 @@ def check_win(pos_d):
             else:
                 pass
 
-#todo ----- while loop
+#----- while loop
 
 win = False
 while not win:
